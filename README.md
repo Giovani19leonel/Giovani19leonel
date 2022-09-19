@@ -11,3 +11,5 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     </div>
+
+![snake gif](https://github.com/Giovani19leonel/Giovani19leonel/blob/output/github-contribution-grid-snake.svg)
