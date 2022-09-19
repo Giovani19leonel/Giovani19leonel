@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Giovani Henrique 🤙
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovani19Leonel&show_icons=true&theme=highcontrast)
 <p>   <img alingn="center" src="https://profile-counter.glitch.me/Giovani19leonel/count.svg" /></p>
+
 ### Tecnologias:
 <div style="display:inline_block"><br/>
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
