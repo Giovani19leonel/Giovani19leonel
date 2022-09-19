@@ -1,6 +1,4 @@
 ### Olá! Eu sou o Giovani Henrique 🤙
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-henrique-18813621a/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovani19Leonel&show_icons=true&theme=highcontrast)
 
 ### Tecnologias
